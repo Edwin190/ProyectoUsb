@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>co.edu.usbcali</groupId>
-  <artifactId>simple</artifactId>
+  <artifactId>Operaciones</artifactId>
   <version>1.0.0-SNAPSHOT</version>
 
-  <name>simple</name>
+  <name>Operaciones</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
